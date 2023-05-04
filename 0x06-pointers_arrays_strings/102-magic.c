@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int main - magic.(void)
 {
 int n;
 int a[5];
